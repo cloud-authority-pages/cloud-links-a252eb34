@@ -1,15 +1,25 @@
-# robots.txt
-# Policy: ALLOW ALL crawlers (search engines, SEO tools, AI bots)
-# Clients verify backlinks via Ahrefs/Semrush/Majestic — blocking these defeats the purpose
-# Only pure bulk training harvesters with zero citation/indexing value are blocked
-# --- DEFAULT: ALLOW ALL CRAWLERS ---
 User-agent: *
 Allow: /
-# --- PURE TRAINING HARVESTERS ONLY (blocked — no citation or SEO value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-Sitemap: https://pub-2f92044261534bbcbe485687cc521feb.r2.dev/campaigns/a252eb34/html/mia-s-angling-scuba/sitemap.xml
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-a252eb34/saltwater-reels/sitemap.xml
+
+https://cloud-authority-pages.github.io/cloud-links-a252eb34/saltwater-reels/a252eb34--saltwater-fishing-reels.html
+https://cloudlinks.blob.core.windows.net/linkdaddy-cab/saltwater-reels/a252eb34/budget-saltwater-reels.html
+https://authority.gitlab.io/cloud-links-a252eb34/saltwater-reels/a252eb34--affordable-saltwater-reels.html
+https://cloud-links-a252eb34.netlify.app/saltwater-reels/a252eb34--best-shimano-reels-for-saltwater.html
+https://cloud-links.nyc3.digitaloceanspaces.com/saltwater-reels/a252eb34/daiwa-saltwater-spinning-reels.html
+https://cab-r2-proxy.cabcdn.workers.dev/saltwater-reels/saltwater-fishin-sandton-1cc43d/corrosion-resistant-fishing-reels.html
+https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/saltwater-reels/a252eb34/heavy-duty-spinning-reels.html
+https://cloud-links-a252eb34.vercel.app/saltwater-reels/a252eb34--offshore-trolling-equipment
+https://s3.us-west-004.backblazeb2.com/cloud-links/saltwater-reels/a252eb34/surf-casting-reels.html
+https://cloud-links.b-cdn.net/saltwater-reels/a252eb34/marine-grade-reel-maintenance.html
+https://s3.us-east-1.wasabisys.com/linkhub/saltwater-reels/a252eb34/penn-conventional-reels.html
+https://cloud-links.neocities.org/saltwater-reels/saltwater-fishin-sandton-1cc43d--large-capacity-spool-reels.html
+https://cloud-links-a252eb34-36b952.surge.sh/saltwater-reels/a252eb34--durable-boat-fishing-gear.html
+https://cloud-links.ewr1.vultrobjects.com/saltwater-reels/a252eb34/sealed-drag-system-reels.html
+https://cloud-links.s3.filebase.io/saltwater-reels/a252eb34/offshore-jigging-tackle.html
+https://cloud-links.t3.tigrisbucket.io/saltwater-reels/a252eb34/braid-friendly-fishing-reels.html
+https://j6a4.c18.e2-5.dev/cloud-links/saltwater-reels/a252eb34/saltwater-reel-accessories.html
+https://cloud-links.us-east-1.telnyxcloudstorage.com/saltwater-reels/a252eb34/premium-conventional-reels.html
+https://object-storage.nz-por-1.catalystcloud.io/v1/AUTH_c332ce830ed4484498bccfc1d13947b3/cloud-links/saltwater-reels/a252eb34/tournament-fishing-equipment.html
+https://cloud-links.cellar-c2.services.clever-cloud.com/saltwater-reels/a252eb34/professional-grade-spinning-reels.html
